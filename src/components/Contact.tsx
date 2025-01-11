@@ -48,7 +48,7 @@ export default function Contact() {
 
         {/* Footer */}
         <div className="mt-24 flex justify-between items-center text-sm text-gray-500">
-          <div> CT Studio 2024. BY CELETECK</div>
+          <div> CT Studio 2025. BY CELETECK</div>
           <div className="flex gap-6">
             <a href="#" className="hover:text-orange-500 transition-colors">Twitter</a>
             <a href="#" className="hover:text-orange-500 transition-colors">Facebook</a>
