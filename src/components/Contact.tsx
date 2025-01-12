@@ -30,7 +30,7 @@ export default function Contact() {
                 href="#contact"
                 className="inline-flex items-center gap-2 px-8 py-4 bg-orange-500 text-white rounded-xl hover:bg-orange-600 transition-colors"
               >
-                CONTACT CT STUDIO
+                CONTACT US
                 <span className="text-xl">→</span>
               </a>
             </div>
